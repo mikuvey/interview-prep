@@ -1,4 +1,4 @@
-# Implementing TDD in the Cardinal Health - Track & Trace Project
+# Implementing TDD:
 
 Implementing Test-Driven Development (TDD) in your Cardinal Health - Track & Trace Project could have been a strategic approach to enhance the project's reliability and maintainability. Here’s a step-by-step breakdown of how you might have implemented TDD in this project, with examples:
 
