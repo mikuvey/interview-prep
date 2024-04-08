@@ -24,10 +24,4 @@ class University{
     //     this.numStaff = numStaff;
     // }
 
-    public 
-
-
-    public static void main(String[] args){
-
-    }
 }
